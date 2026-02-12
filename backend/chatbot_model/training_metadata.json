@@ -1,0 +1,22 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "num_intents": 7,
+  "intents": [
+    "admission",
+    "contact",
+    "deadline",
+    "eligibility",
+    "fees",
+    "goodbye",
+    "greeting"
+  ],
+  "training_samples": 1784,
+  "validation_samples": 315,
+  "epochs": 5,
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "best_val_accuracy": 1.0,
+  "final_train_accuracy": 1.0,
+  "training_date": "2026-02-09 11:31:04",
+  "device": "cpu"
+}

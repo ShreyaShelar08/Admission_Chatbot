@@ -1,0 +1,38 @@
+{
+  "total_queries": 4,
+  "intent_counts": {
+    "greeting": 2,
+    "fees": 1,
+    "admission": 1
+  },
+  "conversations": [
+    {
+      "query": "hii",
+      "intent": "greeting",
+      "confidence": 0.8970096111297607,
+      "timestamp": "2026-02-11T09:31:37.701718",
+      "conversation_id": "session_1770782496429"
+    },
+    {
+      "query": "i want to know about fees structure ",
+      "intent": "fees",
+      "confidence": 0.9105732440948486,
+      "timestamp": "2026-02-11T09:31:52.688890",
+      "conversation_id": "session_1770782512582"
+    },
+    {
+      "query": "hello",
+      "intent": "greeting",
+      "confidence": 0.9331390261650085,
+      "timestamp": "2026-02-11T09:32:06.297155",
+      "conversation_id": "session_1770782526193"
+    },
+    {
+      "query": "admission process",
+      "intent": "admission",
+      "confidence": 0.9182440042495728,
+      "timestamp": "2026-02-11T09:32:25.044200",
+      "conversation_id": "session_1770782544620"
+    }
+  ]
+}

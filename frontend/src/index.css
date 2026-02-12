@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.auth-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 100px auto;
+}
+
+.auth-container input {
+  margin: 5px 0;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.auth-container button {
+  margin-top: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.dashboard-container {
+  display: flex;
+  height: 100vh;
+}
+
+.sidebar {
+  width: 250px;
+  background: #f0f0f0;
+  padding: 10px;
+  overflow-y: auto;
+}
+
+.sidebar h3 {
+  margin-top: 0;
+}
+
+.main-panel {
+  flex: 1;
+  padding: 10px;
+}
+
+.chat-history {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.messages {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.message {
+  margin-bottom: 10px;
+  padding: 5px;
+  border-bottom: 1px solid #ddd;
+}
+
+.message span {
+  font-size: 12px;
+  color: gray;
+}
+
+.chat-history form {
+  display: flex;
+}
+
+.chat-history input {
+  flex: 1;
+  padding: 10px;
+}
+
+.chat-history button {
+  padding: 10px;
+}
