@@ -253,7 +253,14 @@ const Dashboard = ({ user, setUser }) => {
   };
 
   const handleNewChat = () => {
-    startNewChat();
+    setMessages([
+      {
+        id: 1,
+        text: "Hello! I'm your AI assistant. What would you like to discuss today?",
+        sender: "bot",
+        time: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' }),
+      },
+    ]);
   };
 
   // ========== EFFECTS ==========
@@ -335,8 +342,7 @@ const Dashboard = ({ user, setUser }) => {
                     <button
                       className="delete-btn"
                       onClick={(e) => handleDeleteConversation(item.id, e)}
-                      title="Delete conversation"
-                    >
+                      title="Delete conversation">
                       🗑️
                     </button>
                   </div>
@@ -460,6 +466,9 @@ const Dashboard = ({ user, setUser }) => {
         <div className="sidebar-card">
           <h3>⚡ Quick Actions</h3>
           <div className="action-buttons-sidebar">
+            <button className="action-button" onClick={handleNewChat}>
+            <span className="plus-icon">+</span> New Chat
+          </button>
             <button className="action-button" onClick={handleExportChat}>
               📥 Export Chat
             </button>
