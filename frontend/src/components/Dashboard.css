@@ -265,6 +265,7 @@
   flex-direction: column;
   gap: 20px;
   border: 1px solid #f1f5f9;
+  white-space: pre-wrap;
 }
 
 /* A. Message Bubbles */

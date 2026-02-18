@@ -1,5 +1,6 @@
 """
-Configuration file for Admission Inquiry Chatbot
+Ultra-Short Configuration - Chatbot-style Responses
+50-100 words max - Perfect for quick conversations!
 """
 
 import os
@@ -17,149 +18,178 @@ API_HOST = "0.0.0.0"
 API_PORT = 8000
 CORS_ORIGINS = ["*"]
 
-# Response Configuration
+# ULTRA-SHORT RESPONSES (50-100 words each)
 RESPONSES = {
-    "admission": """
-    🎓 **Admission Process**
-    
-    Our admission process is simple and straightforward:
-    
-    1️⃣ **Online Application**: Visit our website and fill out the online application form
-    2️⃣ **Document Submission**: Upload required documents (marksheets, ID proof, photos)
-    3️⃣ **Entrance Test**: Appear for the entrance examination (if applicable for your program)
-    4️⃣ **Interview**: Selected candidates will be called for a personal interview
-    5️⃣ **Admission Confirmation**: Pay the admission fee to confirm your seat
-    
-    For more details, visit our admission portal or contact our office.
-    """,
-    
-    "fees": """
-    💰 **Fee Structure**
-    
-    Our fee structure varies by program:
-    
-    • **Undergraduate Programs**: ₹50,000 - ₹1,50,000 per year
-    • **Postgraduate Programs**: ₹75,000 - ₹2,00,000 per year
-    • **Professional Courses**: ₹1,00,000 - ₹3,00,000 per year
-    
-    📋 Additional fees may include:
-    - Library fees
-    - Laboratory fees
-    - Sports and cultural activities
-    - Hostel fees (if applicable)
-    
-    💳 Payment options: Semester-wise or yearly installments available.
-    
-    For exact fees of your specific program, please contact our accounts department or visit the fee section on our website.
-    """,
-    
-    "eligibility": """
-    ✅ **Eligibility Criteria**
-    
-    **For Undergraduate Programs:**
-    • Completed 10+2 or equivalent from a recognized board
-    • Minimum 50% aggregate marks (45% for reserved categories)
-    • Age limit: 17-25 years
-    
-    **For Postgraduate Programs:**
-    • Bachelor's degree in relevant field from a recognized university
-    • Minimum 55% aggregate marks (50% for reserved categories)
-    • Valid entrance test scores (if applicable)
-    
-    **Additional Requirements:**
-    • Entrance examination (program-specific)
-    • English proficiency (for international students)
-    
-    Note: Eligibility criteria may vary by program. Please check the specific requirements for your desired course.
-    """,
-    
-    "deadline": """
-    ⏰ **Application Deadlines**
-    
-    **For Academic Year 2025-26:**
-    
-    🗓️ **First Round:**
-    - Application Start: March 1, 2025
-    - Application Deadline: May 31, 2025
-    - Entrance Test: June 15, 2025
-    - Result Declaration: June 30, 2025
-    
-    🗓️ **Second Round (if seats available):**
-    - Application Period: July 1 - July 31, 2025
-    - Entrance Test: August 10, 2025
-    - Result Declaration: August 20, 2025
-    
-    ⚠️ **Important Notes:**
-    - Late applications may be accepted with a late fee
-    - International students should apply at least 3 months in advance
-    - Spot admissions may be available for certain programs
-    
-    Don't miss the deadline! Apply early to ensure your seat.
-    """,
-    
-    "contact": """
-    📞 **Contact Information**
-    
-    **Admission Office:**
-    • 📧 Email: admissions@college.edu.in
-    • 📱 Phone: +91-XXXX-XXXXXX
-    • 📠 Fax: +91-XXXX-XXXXXX
-    
-    **Office Address:**
-    [College Name]
-    [Address Line 1]
-    [Address Line 2]
-    [City, State - PIN Code]
-    
-    **Office Hours:**
-    • Monday - Friday: 9:00 AM - 5:00 PM
-    • Saturday: 9:00 AM - 1:00 PM
-    • Sunday: Closed
-    
-    **Social Media:**
-    • 🌐 Website: www.college.edu.in
-    • 📘 Facebook: /collegename
-    • 📸 Instagram: @collegename
-    • 🐦 Twitter: @collegename
-    
-    **Emergency Contact:** +91-XXXX-XXXXXX (24/7)
-    
-    Feel free to reach out to us for any queries!
-    """,
-    
-    "greeting": """
-    👋 Hello! Welcome to our **College Admission Inquiry Chatbot**.
-    
-    I'm here to help you with:
-    • Admission process and procedures
-    • Fee structure and payment details
-    • Eligibility criteria
-    • Application deadlines
-    • Contact information
-    • And much more!
-    
-    Feel free to ask me anything about admissions. How can I assist you today?
-    """,
-    
-    "goodbye": """
-    👋 Thank you for using our admission inquiry service!
-    
-    We hope we were able to help you with your queries. 
-    
-    If you have any more questions in the future, feel free to come back anytime. 
-    
-    **Good luck with your admission!** 🎓✨
-    
-    Have a great day! 😊
-    """,
+    "greeting": """Hi there! 👋 I'm your admission assistant.
+
+I can help with:
+• Admission process
+• Fees & eligibility
+• Courses & facilities
+• Scholarships & placements
+
+What would you like to know?""",
+
+    "admission": """**Admission Process:**
+
+1. Apply online at www.college.edu.in (₹1,000 fee)
+2. Upload documents
+3. Take entrance exam (June 15)
+4. Attend counseling
+5. Pay fees & enroll
+
+**Deadline:** May 31, 2025
+
+Need help? 📧 admissions@college.edu.in""",
+
+    "fees": """**Annual Fees:**
+
+• B.Tech CSE: ₹1,50,000
+• B.Tech Others: ₹1,20,000
+• MBA: ₹2,50,000
+• BBA/BCA: ₹80,000
+• B.Com/B.Sc: ₹50,000-60,000
+
+**Hostel:** ₹60,000-80,000 (optional)
+
+Payment in installments available.
+
+📧 accounts@college.edu.in""",
+
+    "eligibility": """**Basic Eligibility:**
+
+**B.Tech:** 10+2 with PCM, 50%+, JEE score
+**BBA/BCA:** 10+2 any stream, 50%+
+**MBA:** Bachelor's degree, 50%+, CAT/MAT score
+**M.Tech:** B.Tech, 55%+, GATE score
+
+Share your qualifications for specific eligibility check!
+
+📧 admissions@college.edu.in""",
+
+    "deadline": """**Important Dates:**
+
+• Applications open: Jan 1, 2025
+• Last date: **May 31, 2025**
+• Entrance exam: **June 15, 2025**
+• Counseling: June 28 - July 10
+• Classes start: **Aug 1, 2025**
+
+⏰ Apply early!
+
+📧 admissions@college.edu.in""",
+
+    "contact": """**Contact Us:**
+
+📞 Phone: +91-XXXX-XXXXXX
+📧 Email: admissions@college.edu.in
+💬 WhatsApp: +91-XXXXX-XXXXX
+
+🕐 Office: Mon-Fri, 9 AM - 5 PM
+
+🌐 Website: www.college.edu.in
+
+📍 Address: [City, State]""",
+
+    "facilities": """**Campus Facilities:**
+
+📚 Library (50,000+ books)
+🔬 40+ Modern Labs
+🏠 Hostels (2000 capacity)
+🍽️ Cafeteria & Mess
+🏃 Sports Complex
+🏥 Medical Center
+🚌 Transport (40+ buses)
+📡 Campus-wide WiFi
+
+Want details on any specific facility?""",
+
+    "courses": """**Programs Offered:**
+
+**UG:** B.Tech (CSE, Mech, Civil, ECE), BBA, BCA, B.Com, B.Sc
+**PG:** M.Tech, MBA, MCA, M.Sc
+**Law:** BA LLB, BBA LLB (5 years)
+
+**Total seats:** 3000+
+
+Which course interests you?
+
+📧 admissions@college.edu.in""",
+
+    "scholarship": """**Scholarships Available:**
+
+🏆 Merit: Up to 100% fee waiver (90%+ marks)
+💰 Need-based: Up to 70% (income < ₹3L)
+⚽ Sports: Up to 75% (state/national level)
+👧 Girl child: 10% discount
+🎓 Category-based: SC/ST/OBC schemes
+
+Apply during admission!
+
+📧 scholarship@college.edu.in""",
+
+    "placement": """**Placement Highlights:**
+
+✅ 98.5% placement rate
+💰 Highest: ₹52 LPA
+📊 Average: ₹8.5 LPA
+🏢 350+ companies
+
+**Top recruiters:** Google, Microsoft, Amazon, TCS, Infosys
+
+Training & internships provided!
+
+📧 placements@college.edu.in""",
+
+    "hostel": """**Hostel Facilities:**
+
+🏠 Separate boys & girls hostels
+🛏️ Single/Double/Triple rooms
+💰 ₹45,000 - ₹1,00,000/year
+🍽️ Mess: ₹40,000/year (4 meals daily)
+📡 WiFi, Security, Warden
+
+Application during admission.
+
+📧 hostel@college.edu.in""",
+
+    "documents": """**Required Documents:**
+
+📄 10th & 12th marksheets
+📄 TC & Migration certificate
+🆔 Aadhaar card
+📸 10 passport photos
+📝 Caste/Income certificate (if applicable)
+
+Full list: www.college.edu.in/documents
+
+📧 admissions@college.edu.in""",
+
+    "exam": """**Entrance Exam:**
+
+📅 Date: June 15, 2025
+⏰ Duration: 2 hours
+📝 120 MCQs (Aptitude, Reasoning, English)
+💰 Fee: ₹1,000
+
+Free mock tests available online!
+
+📧 entranceexam@college.edu.in
+☎️ 1800-XXX-XXXX""",
+
+    "goodbye": """Thank you! 👋
+
+Feel free to return anytime for more help!
+
+📞 +91-XXXX-XXXXXX
+📧 admissions@college.edu.in
+
+Good luck with your admission! 🎓""",
 }
 
 # Logging Configuration
 LOG_LEVEL = "INFO"
 LOG_FILE = "chatbot.log"
-
-# Database Configuration (for future use)
-DB_PATH = "./chatbot_data.db"
 
 # UI Configuration
 CHAT_TITLE = "College Admission Inquiry Chatbot"

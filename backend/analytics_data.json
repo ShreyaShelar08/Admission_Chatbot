@@ -1,38 +1,59 @@
 {
-  "total_queries": 4,
+  "total_queries": 7,
   "intent_counts": {
-    "greeting": 2,
-    "fees": 1,
-    "admission": 1
+    "greeting": 1,
+    "goodbye": 2,
+    "facilities": 4
   },
   "conversations": [
     {
-      "query": "hii",
-      "intent": "greeting",
-      "confidence": 0.8970096111297607,
-      "timestamp": "2026-02-11T09:31:37.701718",
-      "conversation_id": "session_1770782496429"
-    },
-    {
-      "query": "i want to know about fees structure ",
-      "intent": "fees",
-      "confidence": 0.9105732440948486,
-      "timestamp": "2026-02-11T09:31:52.688890",
-      "conversation_id": "session_1770782512582"
-    },
-    {
       "query": "hello",
       "intent": "greeting",
-      "confidence": 0.9331390261650085,
-      "timestamp": "2026-02-11T09:32:06.297155",
-      "conversation_id": "session_1770782526193"
+      "confidence": 0.34751370549201965,
+      "timestamp": "2026-02-15T20:53:08.449909",
+      "conversation_id": "session_1771168986734"
     },
     {
-      "query": "admission process",
-      "intent": "admission",
-      "confidence": 0.9182440042495728,
-      "timestamp": "2026-02-11T09:32:25.044200",
-      "conversation_id": "session_1770782544620"
+      "query": "tell me the facilites you provide ",
+      "intent": "goodbye",
+      "confidence": 0.2426714152097702,
+      "timestamp": "2026-02-15T20:53:39.579937",
+      "conversation_id": "session_1771169019349"
+    },
+    {
+      "query": "bye",
+      "intent": "goodbye",
+      "confidence": 0.5223070383071899,
+      "timestamp": "2026-02-15T20:54:02.685274",
+      "conversation_id": "session_1771169042444"
+    },
+    {
+      "query": "facilities ",
+      "intent": "facilities",
+      "confidence": 0.7645426392555237,
+      "timestamp": "2026-02-15T20:54:11.078485",
+      "conversation_id": "session_1771169050415"
+    },
+    {
+      "query": "yes i want to know about library ",
+      "intent": "facilities",
+      "confidence": 0.5111666917800903,
+      "timestamp": "2026-02-15T20:54:31.605197",
+      "conversation_id": "session_1771169071365"
+    },
+    {
+      "query": "tell me about hotels ",
+      "intent": "facilities",
+      "confidence": 0.6358073353767395,
+      "timestamp": "2026-02-15T20:55:16.689579",
+      "conversation_id": "session_1771169115934"
+    },
+    {
+      "query": "academic facilities ",
+      "intent": "facilities",
+      "confidence": 0.7664554119110107,
+      "timestamp": "2026-02-15T20:56:44.183738",
+      "conversation_id": "session_1771169203471"
     }
   ]
 }

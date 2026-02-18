@@ -4,6 +4,7 @@ import chatbotAPI from "../services/api";
 import conversationHistoryService from '../services/Conversationhistoryservice';
 import "./Dashboard.css";
 
+
 const Dashboard = ({ user, setUser }) => {
   // ========== STATE DECLARATIONS ==========
   const [messages, setMessages] = useState([]);
@@ -15,6 +16,7 @@ const Dashboard = ({ user, setUser }) => {
   
   const messagesEndRef = useRef(null);
   const navigate = useNavigate();
+ 
 
   // ========== HELPER FUNCTIONS ==========
 

@@ -1,9 +1,16 @@
 {
   "0": "admission",
   "1": "contact",
-  "2": "deadline",
-  "3": "eligibility",
-  "4": "fees",
-  "5": "goodbye",
-  "6": "greeting"
+  "2": "courses",
+  "3": "deadline",
+  "4": "documents",
+  "5": "eligibility",
+  "6": "exam",
+  "7": "facilities",
+  "8": "fees",
+  "9": "goodbye",
+  "10": "greeting",
+  "11": "hostel",
+  "12": "placement",
+  "13": "scholarship"
 }

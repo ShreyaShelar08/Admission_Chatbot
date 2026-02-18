@@ -385,7 +385,7 @@ def train_model(data_path, output_dir=None, epochs=None, batch_size=None):
 if __name__ == "__main__":
     # Train using the uploaded dataset
     train_model(
-        data_path="New_data_set.csv",
+        data_path="New_data_set1.csv",
         output_dir='./chatbot_model',
         epochs=5,
         batch_size=16

@@ -1,0 +1,1087 @@
+intent,text
+greeting,hello
+greeting,hi
+greeting,hey
+greeting,good morning
+greeting,good afternoon
+greeting,good evening
+greeting,hi there
+greeting,hello there
+greeting,greetings
+greeting,hey there
+greeting,hi bot
+greeting,hello bot
+greeting,start
+greeting,hey bot
+greeting,hi assistant
+greeting,hello assistant
+greeting,good day
+greeting,howdy
+greeting,yo
+greeting,sup
+greeting,hola
+greeting,namaste
+greeting,hey buddy
+greeting,hi friend
+greeting,hello friend
+greeting,wassup
+greeting,what's up
+greeting,heya
+greeting,hiya
+greeting,hey dude
+greeting,hi mate
+greeting,hello mate
+greeting,good to see you
+greeting,nice to meet you
+greeting,pleased to meet you
+greeting,how are you
+greeting,how do you do
+greeting,how's it going
+greeting,what's going on
+greeting,how have you been
+greeting,long time no see
+greeting,good to talk to you
+greeting,glad to chat
+greeting,happy to help
+greeting,at your service
+greeting,here to help
+greeting,ready to assist
+greeting,how may I help
+greeting,what can I do for you
+greeting,need assistance
+greeting,looking for help
+admission,how to apply
+admission,steps for admission
+admission,admission process
+admission,admission procedure
+admission,how can I get admission
+admission,how to get admitted
+admission,admission steps
+admission,admission details
+admission,tell me about admission
+admission,admission information
+admission,how to enroll
+admission,enrollment process
+admission,how do I enroll
+admission,enrollment procedure
+admission,admission form
+admission,application form
+admission,how to fill admission form
+admission,admission requirements
+admission,what is admission process
+admission,explain admission process
+admission,admission guidelines
+admission,admission criteria
+admission,admission rules
+admission,how to join
+admission,joining process
+admission,how to become a student
+admission,student admission
+admission,new admission
+admission,fresh admission
+admission,admission for new students
+admission,first time admission
+admission,admission instructions
+admission,admission help
+admission,need admission details
+admission,want to get admission
+admission,planning to get admission
+admission,thinking of admission
+admission,interested in admission
+admission,admission query
+admission,admission question
+admission,tell about admission
+admission,admission info please
+admission,guide me for admission
+admission,help with admission
+admission,admission support
+admission,admission assistance
+admission,how does admission work
+admission,what is the admission process
+fees,what are the fees
+fees,fee structure
+fees,tuition fees
+fees,college fees
+fees,course fees
+fees,how much does it cost
+fees,cost of course
+fees,total fees
+fees,fees details
+fees,fees information
+fees,tell me about fees
+fees,fee payment
+fees,payment details
+fees,fees amount
+fees,how much to pay
+fees,what is the fee
+fees,course cost
+fees,program fees
+fees,fees for admission
+fees,admission fees
+fees,registration fees
+fees,enrollment fees
+fees,semester fees
+fees,annual fees
+fees,yearly fees
+fees,monthly fees
+fees,installment fees
+fees,fees breakdown
+fees,detailed fees
+fees,fees components
+fees,what fees do I need to pay
+fees,total cost
+fees,complete fees
+fees,all fees
+fees,fees required
+fees,payment structure
+fees,fee schedule
+fees,when to pay fees
+fees,fees payment schedule
+fees,fees due date
+fees,how to pay fees
+fees,fees payment method
+fees,online fees payment
+fees,fees payment options
+fees,can I pay in installments
+fees,fees refund
+eligibility,am I eligible
+eligibility,eligibility criteria
+eligibility,eligibility requirements
+eligibility,who can apply
+eligibility,qualification required
+eligibility,minimum qualification
+eligibility,educational qualification
+eligibility,eligibility conditions
+eligibility,can I apply
+eligibility,am I qualified
+eligibility,do I qualify
+eligibility,eligibility details
+eligibility,tell me eligibility
+eligibility,eligibility information
+eligibility,what are the requirements
+eligibility,admission requirements
+eligibility,qualification needed
+eligibility,minimum marks required
+eligibility,marks required
+eligibility,percentage required
+eligibility,grade required
+eligibility,CGPA required
+eligibility,GPA required
+eligibility,academic requirements
+eligibility,educational requirements
+eligibility,prerequisites
+eligibility,eligibility norms
+eligibility,eligibility rules
+eligibility,who is eligible
+eligibility,eligibility check
+eligibility,check my eligibility
+eligibility,verify eligibility
+eligibility,eligibility test
+eligibility,qualification criteria
+eligibility,admission eligibility
+eligibility,course eligibility
+eligibility,program eligibility
+eligibility,eligibility for admission
+eligibility,what qualifications do I need
+eligibility,what marks do I need
+eligibility,minimum percentage
+eligibility,cutoff marks
+eligibility,eligibility cutoff
+eligibility,required qualifications
+eligibility,necessary qualifications
+eligibility,entry requirements
+eligibility,eligibility guidelines
+eligibility,age limit
+eligibility,age criteria
+eligibility,maximum age
+eligibility,minimum age
+deadline,what is the deadline
+deadline,last date
+deadline,application deadline
+deadline,deadline for admission
+deadline,admission deadline
+deadline,when is the last date
+deadline,when to apply
+deadline,application last date
+deadline,registration deadline
+deadline,enrollment deadline
+deadline,deadline details
+deadline,deadline information
+deadline,tell me about deadline
+deadline,when should I apply
+deadline,application period
+deadline,admission dates
+deadline,important dates
+deadline,key dates
+deadline,admission schedule
+deadline,timeline for admission
+deadline,application timeline
+deadline,when does admission start
+deadline,when does admission end
+deadline,admission opening date
+deadline,admission closing date
+deadline,form submission deadline
+deadline,document submission deadline
+deadline,final date
+deadline,cutoff date
+deadline,due date
+deadline,submission deadline
+deadline,apply by when
+deadline,last day to apply
+deadline,extended deadline
+deadline,deadline extension
+deadline,is deadline extended
+deadline,can I apply now
+deadline,am I too late
+deadline,is admission open
+deadline,is admission closed
+deadline,admission status
+deadline,current admission status
+deadline,when will admission open
+deadline,when will next admission start
+deadline,upcoming admission
+deadline,next session admission
+deadline,admission for next year
+deadline,deadline for next batch
+deadline,application window
+deadline,registration window
+contact,contact information
+contact,how to contact
+contact,phone number
+contact,email address
+contact,contact details
+contact,how to reach you
+contact,contact number
+contact,college contact
+contact,admission office contact
+contact,helpline number
+contact,support number
+contact,customer care
+contact,contact support
+contact,get in touch
+contact,reach out
+contact,communication details
+contact,office number
+contact,office address
+contact,college address
+contact,location
+contact,where are you located
+contact,office location
+contact,admission office address
+contact,contact email
+contact,email id
+contact,official email
+contact,contact phone
+contact,telephone number
+contact,mobile number
+contact,whatsapp number
+contact,contact via whatsapp
+contact,office hours
+contact,visiting hours
+contact,when can I visit
+contact,office timings
+contact,working hours
+contact,contact timing
+contact,best time to contact
+contact,how to visit
+contact,visit office
+contact,can I visit
+contact,appointment
+contact,schedule visit
+contact,office visit
+contact,in person meeting
+contact,face to face meeting
+contact,physical address
+contact,campus address
+contact,college location
+contact,directions
+contact,how to reach campus
+contact,nearest landmark
+facilities,what facilities do you provide
+facilities,tell me about facilities
+facilities,college facilities
+facilities,campus facilities
+facilities,what amenities are available
+facilities,infrastructure
+facilities,library facilities
+facilities,hostel facilities
+facilities,sports facilities
+facilities,laboratory facilities
+facilities,lab facilities
+facilities,computer lab
+facilities,cafeteria facilities
+facilities,mess facilities
+facilities,accommodation facilities
+facilities,residential facilities
+facilities,gym facilities
+facilities,fitness center
+facilities,medical facilities
+facilities,health center
+facilities,transport facilities
+facilities,bus facilities
+facilities,transportation
+facilities,parking facilities
+facilities,wifi facilities
+facilities,internet facilities
+facilities,auditorium
+facilities,seminar hall
+facilities,conference room
+facilities,recreation facilities
+facilities,entertainment facilities
+facilities,student facilities
+facilities,faculty facilities
+facilities,research facilities
+facilities,innovation lab
+facilities,startup center
+facilities,incubation center
+facilities,placement cell
+facilities,training facilities
+facilities,workshop facilities
+facilities,studio facilities
+facilities,art facilities
+facilities,music facilities
+facilities,dance facilities
+facilities,theater facilities
+facilities,canteen
+facilities,food court
+facilities,dining hall
+facilities,study rooms
+facilities,reading rooms
+facilities,common rooms
+facilities,lounge
+facilities,garden
+facilities,playground
+facilities,sports ground
+facilities,indoor sports
+facilities,outdoor sports
+facilities,swimming pool
+facilities,basketball court
+facilities,tennis court
+facilities,cricket ground
+facilities,football ground
+facilities,badminton court
+facilities,volleyball court
+facilities,table tennis
+facilities,chess room
+facilities,gaming room
+facilities,entertainment room
+facilities,tv room
+facilities,amphitheater
+facilities,open air theater
+facilities,cultural facilities
+facilities,event facilities
+facilities,exhibition hall
+facilities,gallery
+facilities,museum
+facilities,solar panels
+facilities,green campus
+facilities,eco friendly campus
+facilities,sustainable campus
+facilities,security facilities
+facilities,CCTV surveillance
+facilities,safety measures
+facilities,emergency facilities
+facilities,fire safety
+facilities,first aid
+facilities,ambulance facility
+facilities,pharmacy
+facilities,medical store
+facilities,bookstore
+facilities,stationery shop
+facilities,xerox facilities
+facilities,printing facilities
+facilities,scanning facilities
+facilities,banking facilities
+facilities,ATM facilities
+facilities,post office
+facilities,courier service
+facilities,laundry facilities
+facilities,housekeeping
+facilities,maintenance
+facilities,water supply
+facilities,electricity backup
+facilities,generator
+facilities,UPS
+facilities,air conditioning
+facilities,heating
+facilities,ventilation
+facilities,smart classrooms
+facilities,digital classrooms
+facilities,projectors
+facilities,audio visual aids
+facilities,multimedia facilities
+facilities,video conferencing
+facilities,online learning facilities
+courses,what courses do you offer
+courses,available courses
+courses,course list
+courses,programs offered
+courses,what can I study
+courses,which courses
+courses,what programs
+courses,course details
+courses,program details
+courses,tell me about courses
+courses,course information
+courses,program information
+courses,undergraduate courses
+courses,postgraduate courses
+courses,UG courses
+courses,PG courses
+courses,bachelor courses
+courses,master courses
+courses,diploma courses
+courses,certificate courses
+courses,degree courses
+courses,what degrees do you offer
+courses,course options
+courses,program options
+courses,streams available
+courses,branches available
+courses,specializations available
+courses,majors offered
+courses,minors offered
+courses,electives available
+courses,course curriculum
+courses,program curriculum
+courses,syllabus
+courses,course content
+courses,what will I learn
+courses,course duration
+courses,program duration
+courses,how long is the course
+courses,course structure
+courses,program structure
+courses,full time courses
+courses,part time courses
+courses,distance learning
+courses,online courses
+courses,correspondence courses
+courses,evening courses
+courses,weekend courses
+courses,integrated courses
+courses,dual degree
+courses,joint degree
+courses,interdisciplinary courses
+courses,professional courses
+courses,technical courses
+courses,engineering courses
+courses,medical courses
+courses,management courses
+courses,commerce courses
+courses,science courses
+courses,arts courses
+courses,humanities courses
+courses,law courses
+courses,design courses
+courses,architecture courses
+courses,pharmacy courses
+courses,nursing courses
+courses,education courses
+courses,computer courses
+courses,IT courses
+courses,MBA programs
+courses,BBA programs
+courses,BCA programs
+courses,MCA programs
+courses,BTech programs
+courses,MTech programs
+courses,BSc programs
+courses,MSc programs
+courses,BA programs
+courses,MA programs
+courses,BCom programs
+courses,MCom programs
+courses,course admission
+courses,program admission
+courses,how to apply for courses
+courses,course fees
+courses,program fees
+courses,popular courses
+courses,best courses
+courses,top courses
+courses,new courses
+courses,latest courses
+courses,upcoming courses
+scholarship,scholarship available
+scholarship,any scholarship
+scholarship,scholarship details
+scholarship,scholarship information
+scholarship,financial aid
+scholarship,fee concession
+scholarship,fee waiver
+scholarship,scholarship programs
+scholarship,scholarship schemes
+scholarship,merit scholarship
+scholarship,need based scholarship
+scholarship,sports scholarship
+scholarship,talent scholarship
+scholarship,minority scholarship
+scholarship,SC ST scholarship
+scholarship,OBC scholarship
+scholarship,EWS scholarship
+scholarship,girl child scholarship
+scholarship,women scholarship
+scholarship,scholarship eligibility
+scholarship,scholarship criteria
+scholarship,scholarship requirements
+scholarship,how to apply for scholarship
+scholarship,scholarship application
+scholarship,scholarship form
+scholarship,scholarship process
+scholarship,government scholarship
+scholarship,private scholarship
+scholarship,college scholarship
+scholarship,institutional scholarship
+scholarship,external scholarship
+scholarship,scholarship amount
+scholarship,scholarship benefits
+scholarship,scholarship coverage
+scholarship,full scholarship
+scholarship,partial scholarship
+scholarship,scholarship percentage
+scholarship,free education
+scholarship,tuition fee scholarship
+scholarship,hostel fee scholarship
+scholarship,scholarship for poor students
+scholarship,scholarship for meritorious students
+scholarship,scholarship for economically backward
+scholarship,scholarship deadline
+scholarship,scholarship last date
+scholarship,scholarship documents
+scholarship,scholarship proof
+scholarship,income certificate
+scholarship,caste certificate
+scholarship,scholarship verification
+scholarship,scholarship approval
+scholarship,scholarship disbursement
+scholarship,when will I get scholarship
+scholarship,scholarship payment
+scholarship,scholarship refund
+scholarship,scholarship renewal
+scholarship,scholarship continuation
+scholarship,maintain scholarship
+scholarship,scholarship conditions
+scholarship,scholarship rules
+scholarship,scholarship policy
+scholarship,scholarship helpline
+scholarship,scholarship support
+scholarship,scholarship assistance
+scholarship,scholarship contact
+scholarship,scholarship inquiry
+placement,placement details
+placement,placement information
+placement,job placement
+placement,campus placement
+placement,placement opportunities
+placement,placement record
+placement,placement statistics
+placement,placement percentage
+placement,placement rate
+placement,how is placement
+placement,placement scenario
+placement,placement cell
+placement,training and placement
+placement,placement assistance
+placement,placement support
+placement,career services
+placement,job opportunities
+placement,employment opportunities
+placement,internship opportunities
+placement,summer internship
+placement,winter internship
+placement,industry internship
+placement,corporate internship
+placement,placement training
+placement,aptitude training
+placement,communication skills training
+placement,personality development
+placement,interview preparation
+placement,resume building
+placement,mock interviews
+placement,group discussions
+placement,soft skills training
+placement,technical training
+placement,coding training
+placement,placement companies
+placement,recruiting companies
+placement,top recruiters
+placement,companies visiting
+placement,company list
+placement,placement partners
+placement,industry partners
+placement,corporate partners
+placement,MNC placements
+placement,startup placements
+placement,government placements
+placement,PSU placements
+placement,placement salary
+placement,average package
+placement,highest package
+placement,lowest package
+placement,salary range
+placement,CTC offered
+placement,placement packages
+placement,previous year placement
+placement,placement trend
+placement,placement growth
+placement,placement success
+placement,placement guarantee
+placement,100 percent placement
+placement,assured placement
+placement,placement drive
+placement,placement season
+placement,placement process
+placement,placement procedure
+placement,placement eligibility
+placement,placement criteria
+placement,placement requirements
+placement,who can attend placement
+placement,off campus placement
+placement,on campus placement
+placement,pool campus
+placement,dream company
+placement,core company placement
+placement,IT company placement
+placement,consulting placement
+placement,finance placement
+placement,marketing placement
+placement,HR placement
+placement,operations placement
+placement,technical placement
+placement,non technical placement
+placement,placement abroad
+placement,international placement
+placement,foreign placement
+placement,placement overseas
+placement,alumni placement
+placement,placement alumni
+placement,placement testimonials
+placement,placement reviews
+placement,placement feedback
+placement,placement contact
+placement,placement office
+placement,placement coordinator
+placement,placement officer
+placement,placement head
+hostel,hostel facilities
+hostel,hostel accommodation
+hostel,hostel details
+hostel,hostel information
+hostel,tell me about hostel
+hostel,hostel availability
+hostel,hostel rooms
+hostel,hostel fees
+hostel,hostel charges
+hostel,hostel cost
+hostel,boys hostel
+hostel,girls hostel
+hostel,separate hostel
+hostel,hostel capacity
+hostel,hostel occupancy
+hostel,hostel admission
+hostel,how to get hostel
+hostel,hostel application
+hostel,hostel booking
+hostel,hostel reservation
+hostel,hostel allotment
+hostel,hostel room types
+hostel,single room
+hostel,double room
+hostel,triple room
+hostel,shared room
+hostel,AC hostel
+hostel,non AC hostel
+hostel,hostel amenities
+hostel,hostel services
+hostel,hostel mess
+hostel,hostel food
+hostel,mess facilities
+hostel,mess menu
+hostel,mess charges
+hostel,food quality
+hostel,meal timings
+hostel,breakfast lunch dinner
+hostel,vegetarian food
+hostel,non vegetarian food
+hostel,hostel security
+hostel,hostel safety
+hostel,warden
+hostel,hostel warden
+hostel,hostel rules
+hostel,hostel regulations
+hostel,hostel discipline
+hostel,hostel timings
+hostel,entry exit timings
+hostel,hostel curfew
+hostel,hostel leave
+hostel,hostel permission
+hostel,parents permission
+hostel,visitor policy
+hostel,guests allowed
+hostel,hostel wifi
+hostel,hostel internet
+hostel,hostel electricity
+hostel,power backup
+hostel,hostel water supply
+hostel,hot water facility
+hostel,hostel laundry
+hostel,washing machine
+hostel,hostel cleaning
+hostel,housekeeping
+hostel,hostel maintenance
+hostel,hostel complaint
+hostel,hostel problems
+hostel,hostel issues
+hostel,hostel grievance
+hostel,hostel medical
+hostel,hostel first aid
+hostel,hostel recreation
+hostel,hostel common room
+hostel,hostel TV
+hostel,hostel games
+hostel,hostel sports
+hostel,hostel gym
+hostel,hostel study room
+hostel,hostel library
+hostel,hostel parking
+hostel,hostel location
+hostel,hostel distance from college
+hostel,hostel transport
+hostel,hostel bus
+hostel,off campus hostel
+hostel,PG accommodation
+hostel,paying guest
+hostel,nearby accommodation
+hostel,hostel waiting list
+hostel,hostel vacancy
+hostel,hostel availability
+hostel,hostel refund
+hostel,hostel deposit
+hostel,hostel advance
+hostel,hostel cancellation
+documents,what documents required
+documents,required documents
+documents,documents needed
+documents,documents list
+documents,document checklist
+documents,documents for admission
+documents,admission documents
+documents,application documents
+documents,what to submit
+documents,what papers needed
+documents,certificates required
+documents,certificates needed
+documents,original documents
+documents,xerox copies
+documents,attested copies
+documents,self attested
+documents,notarized documents
+documents,documents verification
+documents,document submission
+documents,when to submit documents
+documents,where to submit documents
+documents,how to submit documents
+documents,online document submission
+documents,offline document submission
+documents,upload documents
+documents,scan documents
+documents,document format
+documents,document size
+documents,PDF documents
+documents,JPEG documents
+documents,marksheet required
+documents,transcript required
+documents,degree certificate
+documents,provisional certificate
+documents,migration certificate
+documents,transfer certificate
+documents,leaving certificate
+documents,TC required
+documents,LC required
+documents,character certificate
+documents,conduct certificate
+documents,ID proof
+documents,identity proof
+documents,address proof
+documents,aadhar card
+documents,passport
+documents,driving license
+documents,voter ID
+documents,PAN card
+documents,birth certificate
+documents,age proof
+documents,caste certificate
+documents,category certificate
+documents,income certificate
+documents,domicile certificate
+documents,residence certificate
+documents,nationality certificate
+documents,passport size photos
+documents,photographs required
+documents,how many photos
+documents,photo specifications
+documents,white background photo
+documents,recent photograph
+documents,signature required
+documents,thumb impression
+documents,affidavit required
+documents,gap certificate
+documents,undertaking
+documents,declaration
+documents,NOC required
+documents,no objection certificate
+documents,medical certificate
+documents,fitness certificate
+documents,health certificate
+documents,physical fitness
+documents,medical report
+documents,vaccination certificate
+documents,COVID certificate
+documents,experience certificate
+documents,work experience
+documents,internship certificate
+documents,recommendation letter
+documents,reference letter
+documents,LOR required
+documents,SOP required
+documents,statement of purpose
+documents,essay
+documents,entrance exam scorecard
+documents,exam hall ticket
+documents,admit card
+documents,rank card
+documents,eligibility certificate
+documents,qualifying certificate
+documents,bachelor degree
+documents,master degree
+documents,10th marksheet
+documents,12th marksheet
+documents,semester marksheets
+documents,consolidated marksheet
+documents,provisional degree
+documents,original degree
+documents,bank documents
+documents,fee receipt
+documents,payment proof
+documents,challan
+documents,DD required
+documents,demand draft
+documents,scholarship documents
+documents,category documents
+documents,disability certificate
+documents,sports certificate
+documents,NCC certificate
+documents,NSS certificate
+documents,extra curricular certificates
+documents,achievement certificates
+documents,documents checklist PDF
+documents,download document list
+documents,documents format
+documents,documents samples
+documents,documents help
+documents,documents assistance
+documents,documents query
+documents,documents problem
+documents,missing documents
+documents,lost documents
+documents,duplicate documents
+documents,reissue documents
+documents,documents correction
+documents,name correction
+documents,documents update
+exam,entrance exam
+exam,admission test
+exam,entrance test
+exam,exam details
+exam,exam information
+exam,tell me about exam
+exam,is exam required
+exam,do I need to give exam
+exam,exam compulsory
+exam,exam mandatory
+exam,entrance exam name
+exam,which exam to give
+exam,exam pattern
+exam,exam syllabus
+exam,exam subjects
+exam,exam topics
+exam,what to study
+exam,exam preparation
+exam,how to prepare
+exam,exam books
+exam,reference books
+exam,study material
+exam,exam coaching
+exam,coaching classes
+exam,exam date
+exam,when is exam
+exam,exam schedule
+exam,exam calendar
+exam,exam timetable
+exam,exam registration
+exam,how to register for exam
+exam,exam application
+exam,exam form
+exam,exam fee
+exam,exam charges
+exam,exam payment
+exam,exam hall ticket
+exam,admit card
+exam,exam center
+exam,exam venue
+exam,where is exam
+exam,exam location
+exam,exam city
+exam,exam duration
+exam,exam timing
+exam,exam hours
+exam,exam type
+exam,objective exam
+exam,subjective exam
+exam,MCQ exam
+exam,written exam
+exam,online exam
+exam,offline exam
+exam,computer based test
+exam,pen paper test
+exam,exam mode
+exam,exam format
+exam,exam structure
+exam,exam sections
+exam,exam marks
+exam,total marks
+exam,exam scoring
+exam,marking scheme
+exam,negative marking
+exam,exam cutoff
+exam,qualifying marks
+exam,passing marks
+exam,minimum marks
+exam,exam result
+exam,result date
+exam,when will result come
+exam,result declaration
+exam,how to check result
+exam,result website
+exam,scorecard
+exam,rank
+exam,merit list
+exam,selection list
+exam,exam eligibility
+exam,who can give exam
+exam,exam age limit
+exam,exam qualification
+exam,exam requirements
+exam,exam attempt
+exam,how many attempts
+exam,exam validity
+exam,exam score validity
+exam,previous year papers
+exam,sample papers
+exam,mock test
+exam,practice test
+exam,exam tips
+exam,exam strategy
+exam,exam guidance
+exam,exam help
+exam,exam support
+exam,exam contact
+exam,exam helpline
+exam,exam query
+exam,exam doubt
+exam,exam clarification
+exam,exam updates
+exam,exam notification
+exam,exam news
+exam,exam announcement
+exam,exam postponed
+exam,exam cancelled
+exam,exam rescheduled
+exam,exam admit card download
+exam,exam answer key
+exam,exam solutions
+exam,exam analysis
+exam,exam difficulty
+exam,exam review
+exam,exam feedback
+exam,exam complaint
+exam,exam grievance
+exam,exam revaluation
+exam,exam rechecking
+exam,exam challenge
+exam,exam appeal
+goodbye,bye
+goodbye,goodbye
+goodbye,see you
+goodbye,take care
+goodbye,thanks
+goodbye,thank you
+goodbye,bye bye
+goodbye,see you later
+goodbye,catch you later
+goodbye,talk to you later
+goodbye,have a good day
+goodbye,have a great day
+goodbye,have a nice day
+goodbye,good night
+goodbye,farewell
+goodbye,adios
+goodbye,cheerio
+goodbye,ciao
+goodbye,hasta la vista
+goodbye,peace out
+goodbye,I'm leaving
+goodbye,gotta go
+goodbye,I have to go
+goodbye,leaving now
+goodbye,signing off
+goodbye,logging off
+goodbye,that's all
+goodbye,nothing else
+goodbye,no more questions
+goodbye,all done
+goodbye,finished
+goodbye,completed
+goodbye,thank you for help
+goodbye,thanks for information
+goodbye,appreciate it
+goodbye,grateful
+goodbye,helpful
+goodbye,great help
+goodbye,awesome
+goodbye,perfect
+goodbye,excellent
+goodbye,wonderful
+goodbye,fantastic
+goodbye,amazing
+goodbye,brilliant
+goodbye,superb
+goodbye,outstanding
+goodbye,good service
+goodbye,satisfied
+goodbye,happy with help
+goodbye,got what I needed
+goodbye,all clear now
+goodbye,understood
+goodbye,got it
+goodbye,clear
+goodbye,makes sense
+goodbye,okay bye
+goodbye,alright bye
+goodbye,cool bye
+goodbye,fine bye
+goodbye,sure bye
+goodbye,right bye
+goodbye,yes bye
+goodbye,okay thanks bye
+goodbye,alright thanks
+goodbye,cool thanks
+goodbye,fine thanks
+goodbye,sure thanks
+goodbye,will contact later
+goodbye,will come back
+goodbye,will return
+goodbye,see you soon
+goodbye,until next time
+goodbye,till we meet again

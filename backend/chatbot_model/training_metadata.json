@@ -1,22 +1,29 @@
 {
   "model_name": "distilbert-base-uncased",
-  "num_intents": 7,
+  "num_intents": 14,
   "intents": [
     "admission",
     "contact",
+    "courses",
     "deadline",
+    "documents",
     "eligibility",
+    "exam",
+    "facilities",
     "fees",
     "goodbye",
-    "greeting"
+    "greeting",
+    "hostel",
+    "placement",
+    "scholarship"
   ],
-  "training_samples": 1784,
-  "validation_samples": 315,
+  "training_samples": 923,
+  "validation_samples": 163,
   "epochs": 5,
   "batch_size": 16,
   "learning_rate": 2e-05,
-  "best_val_accuracy": 1.0,
-  "final_train_accuracy": 1.0,
-  "training_date": "2026-02-09 11:31:04",
+  "best_val_accuracy": 0.8404907975460123,
+  "final_train_accuracy": 0.914409534127844,
+  "training_date": "2026-02-15 20:17:39",
   "device": "cpu"
 }
